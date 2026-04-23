@@ -1,29 +1,52 @@
-﻿# NAOS Super Helper
+# naos-super-helper
 
-Единый Tampermonkey-скрипт для работы с Журналом, Баннерами и Акциями в Magento admin NAOS.
+![License](https://img.shields.io/github/license/ShapArt/naos-super-helper)
+![Last Commit](https://img.shields.io/github/last-commit/ShapArt/naos-super-helper)
+![Language](https://img.shields.io/github/languages/top/ShapArt/naos-super-helper)
 
-## Возможности
-- Разбор ТЗ (журнал/баннер/акция) и авто-заполнение форм.
-- Автоопределение страницы и переключение вкладки.
-- Автообновление через GitHub (`@updateURL`/`@downloadURL`).
-- Логи и понятные тосты прямо в панели.
+## EN Overview
+Project maintained by ShapArt.
 
-## Установка
-1. Установи Tampermonkey.
-2. Открой raw-линк скрипта: https://raw.githubusercontent.com/ShapArt/naos-super-helper/main/NAOS%20Super%20Helper.js
-3. Согласись на установку. Скрипт работает на https://backend.naos.ru/* (мета @match внутри файла).
+## RU Описание
+Project maintained by ShapArt.
 
-## Обновление
-- Происходит автоматически (Tampermonkey проверяет `@updateURL`).
-- Можно нажать кнопку «Обновить» в панели — откроется актуальный raw-файл.
+## EN Features
+- Clear project purpose and maintainable structure.
+- Standardized community and contribution files.
+- Consistent documentation style across account repositories.
 
-## Разработка
-- Главный файл: `NAOS Super Helper.js` (без сборки, чистый ES2020+).
-- История версий: `CHANGELOG.md` (должен совпадать с полем `@version`).
-- Доп. заметки: `docs/REPO_SETUP.md` — чек-лист по ведению репозитория.
+## RU Возможности
+- Понятная цель проекта и поддерживаемая структура.
+- Стандартизированные файлы сообщества и вклада.
+- Единый стиль документации во всех репозиториях аккаунта.
 
-## Быстрые скриншоты
-Смотри `docs/` (если добавишь — лучше в webp, без чувствительных данных).
+## EN Quick Start
+Review repository files and docs for usage details.
 
-## Лицензия
-MIT (сохрани ту же, что в оригинале, если требуется).
+## RU Быстрый старт
+Review repository files and docs for usage details.
+
+## EN Project Structure
+- .github/ - templates, policy files, CI config.
+- Source files and assets are stored in repository root or feature directories.
+
+## RU Структура проекта
+- .github/ - шаблоны, policy-файлы, конфиг CI.
+- Исходники и ресурсы находятся в корне или профильных директориях.
+
+## EN Roadmap
+- Improve test coverage and automation.
+- Keep docs aligned with actual project behavior.
+
+## RU Планы
+- Расширять покрытие тестами и автоматизацией.
+- Поддерживать документацию в актуальном состоянии.
+
+## EN Contributing
+See .github/CONTRIBUTING.md.
+
+## RU Вклад
+См. .github/CONTRIBUTING.md.
+
+## License / Лицензия
+See LICENSE.
