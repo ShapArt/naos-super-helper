@@ -7,32 +7,33 @@
 [![License](https://img.shields.io/github/license/ShapArt/=for-the-badge)](https://github.com/ShapArt/naos-super-helper/blob/main/LICENSE)
 
 ## RU
-Automation helper toolkit for daily engineering workflows.
+**Слоган:** Помощник для скорости команды
 
-### Зачем этот проект
-- Практичный инженерный проект с упором на качество
-- Ориентирован на практическое использование, а не «учебный шаблон».
-- Поддерживает единый стандарт качества профиля и репозиториев.
+Набор автоматизаций, который убирает лишние действия в ежедневной разработке.
+
+### Что даёт проект
+- Быстрый запуск и понятный вход в задачу.
+- Практичный сценарий использования, а не «игрушечный» демо-кейс.
+- Поддерживаемая структура для роста и автоматизации.
 
 ### Быстрый старт
-- Открой README и документацию
-- Запусти команды из раздела запуска
+- Открой README/структуру проекта.
+- Запусти команды из текущего репозитория.
+- Используй шаблоны в .github/ для стандартизированного вклада.
 
 ### Для кого
-- Разработчики backend/automation решений.
-- Команды, которым нужна понятная архитектура и предсказуемый запуск.
+- Инженеры, которым важен результат, а не шум.
+- Команды, ценящие скорость внедрения и качество кода.
 
 ## EN
-Automation helper toolkit for daily engineering workflows.
+**Tagline:** Помощник для скорости команды
 
-### Why this project
-- Практичный инженерный проект с упором на качество
-- Built for practical delivery, not just a demo.
-- Follows a consistent engineering quality standard.
+Automation toolkit that removes repetitive overhead from daily engineering.
 
-### Quick start
-- Read documentation
-- Run project-specific commands
+### Value proposition
+- Fast onboarding and clear project intent.
+- Production-minded structure for scaling and automation.
+- Consistent contribution and quality standards.
 
 ## Contribution
 See .github/CONTRIBUTING.md.
