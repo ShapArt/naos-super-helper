@@ -1,44 +1,42 @@
 # naos-super-helper
 
-![Social Preview](https://raw.githubusercontent.com/ShapArt/naos-super-helper/main/.github/social-preview.png)
+Small helper automation repository for reducing repetitive work in a specific day-to-day workflow.
 
-[![Stars](https://img.shields.io/github/stars/ShapArt/naos-super-helper?style=for-the-badge)](https://github.com/ShapArt/naos-super-helper/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/ShapArt/naos-super-helper?style=for-the-badge)](https://github.com/ShapArt/naos-super-helper/commits/main)
-[![License](https://img.shields.io/github/license/ShapArt/naos-super-helper?style=for-the-badge)](https://github.com/ShapArt/naos-super-helper/blob/main/LICENSE)
+## What this repository is
+
+`naos-super-helper` is best framed as a focused helper utility.
+
+The repository name suggests a project built around a narrow internal or personal workflow rather than a general-purpose platform. That is a valid and useful kind of project when the README makes the scope clear.
+
+## Why projects like this matter
+
+Good automation does not always start as a large backend system. Sometimes it starts as a small helper that removes a few repeated steps from everyday work.
+
+That kind of tooling is valuable when it is:
+
+- easy to run;
+- easy to understand;
+- tied to a real workflow;
+- careful about its limitations.
+
+## Portfolio positioning
+
+This is a supporting utility.
+
+It should stay compact unless the repository contains a larger architecture, integrations, or deployment model. Its main value is showing a habit of building tools for annoying repeated tasks.
+
+## What would make it stronger
+
+- explain what NAOS refers to in this context;
+- list the exact workflow it improves;
+- show one before/after example;
+- document how to run it;
+- describe any configuration needed.
 
 ## RU
-**Слоган:** Помощник для скорости команды
 
-Набор автоматизаций, который убирает лишние действия в ежедневной разработке.
-
-### Что даёт проект
-- Быстрый запуск и понятный вход в задачу.
-- Практичный сценарий использования, а не «игрушечный» демо-кейс.
-- Поддерживаемая структура для роста и автоматизации.
-
-### Быстрый старт
-- Открой README/структуру проекта.
-- Запусти команды из текущего репозитория.
-- Используй шаблоны в .github/ для стандартизированного вклада.
-
-### Для кого
-- Инженеры, которым важен результат, а не шум.
-- Команды, ценящие скорость внедрения и качество кода.
-
-## EN
-**Tagline:** Помощник для скорости команды
-
-Automation toolkit that removes repetitive overhead from daily engineering.
-
-### Value proposition
-- Fast onboarding and clear project intent.
-- Production-minded structure for scaling and automation.
-- Consistent contribution and quality standards.
-
-## Contribution
-See .github/CONTRIBUTING.md.
+Небольшая helper-утилита для конкретного рабочего сценария. В портфолио такие репозитории лучше работают не через пафос, а через ясность: какую рутину убирает, как запускается, где границы.
 
 ## License
-See LICENSE.
 
-
+See `LICENSE`.
